@@ -1,0 +1,40 @@
+main {
+  margin: auto;
+  margin-top: 10rem;
+  width: 800px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+}
+
+button {
+  margin-right: 1rem;
+}
+
+.commentary-callout {
+  margin: 0 0 1.5rem;
+  padding: 1rem 1.25rem;
+  background: #f4f7fb;
+  border-left: 4px solid #4a6fa5;
+  border-radius: 0 6px 6px 0;
+  color: #2c3e50;
+  line-height: 1.5;
+}
+
+.spinner {
+  height: 30px;
+}
+
+.image {
+  width: 300px;
+}
+
+.confirmation {
+  white-space: pre-wrap;
+}
+
+footer {
+  font-style: italic;
+}
